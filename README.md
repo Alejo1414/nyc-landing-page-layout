@@ -16,6 +16,10 @@ This is a simple landing page dedicated to showcasing the vibrant city of New Yo
 
 To view the NYC landing page, simply open the `index.html` file in a web browser. The page is optimized for modern web browsers.
 
+## Acknowledgements
+
+- The layout and design concepts for this landing page were inspired by online resources and tutorials by Zach Gollwitzer https://twitter.com/zg_dev.
+
 ## Feedback and Contributions
 
 Feedback, suggestions, and contributions to improve this landing page are welcome. Feel free to open an issue or submit a pull request.
