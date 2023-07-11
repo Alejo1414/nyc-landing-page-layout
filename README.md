@@ -1,16 +1,23 @@
-## Project Overview
+# NYC Landing Page
 
-In this video tutorial, you will build the [Holy Grail](https://en.wikipedia.org/wiki/Holy_grail_(web_design)) CSS Layout using CSS Grid.
+This is a simple landing page dedicated to showcasing the vibrant city of New York. It has been created as a practice project to hone CSS layout skills using grid and flexbox.
 
-You can see the [final version here](https://zachgoll.github.io/holy-grail-css-layout/).
+## Features
 
-You can see the solution to this challenge on the [Github Pages branch](https://github.com/zachgoll/holy-grail-css-layout/tree/gh-pages) of this repository.
+- Responsive Design: The landing page is designed to be responsive and adapt to different screen sizes, ensuring a seamless browsing experience across devices.
 
-This is part of my [#fullstackroadmap series](https://www.zachgollwitzer.com/posts/2021/fullstack-developer-series/introduction/), which will take you from a complete beginner (no coding experience) to deploying your first full-stack E-Commerce app with ReactJS.
+- Grid Layout: The grid layout has been implemented to create a structured and organized display of content, allowing for easy positioning and alignment of elements.
 
-## Instructions
+- Flexbox: Flexbox has been utilized to create flexible and fluid layouts, enabling dynamic placement of elements and accommodating various screen resolutions.
 
-To build this, you will need two things:
+- Styling: The page has been styled using CSS to enhance the visual appeal and create a cohesive design that complements the content.
 
-- [YouTube Video]() (coming soon) - I suggest watching this video _at least_ until you complete the layout of this design.
-- [Style Guide](./style-guide.md) - Here, you will find fonts, colors, and other style resources to assist you while building.
+## Usage
+
+To view the NYC landing page, simply open the `index.html` file in a web browser. The page is optimized for modern web browsers.
+
+## Feedback and Contributions
+
+Feedback, suggestions, and contributions to improve this landing page are welcome. Feel free to open an issue or submit a pull request.
+
+Enjoy exploring the incredible city of New York through this simple practice project!
